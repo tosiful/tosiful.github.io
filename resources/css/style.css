@@ -1,0 +1,158 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.half{
+
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+
+
+}
+
+.half img{
+
+
+    width: 60%;
+
+}
+
+
+h1{
+
+    color: tomato;
+}
+
+.anchor-button{
+
+    background: tomato;
+    border: 1px solid;
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 10px;
+
+}
+
+.top{
+
+    background-image: url("../images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+section {
+
+    height: 400px;
+
+    margin-bottom: 100px;
+}
+
+.mh{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+
+
+}
+
+.mh img{
+
+    width: 50%;
+    margin: 0;
+}
+
+.middle{
+
+    background-image: url("../images/biography-bg.png");
+    background-repeat: no-repeat;
+
+}
+
+h2{
+
+    text-align: center;
+}
+
+
+.one{
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+
+}
+
+.one img{
+
+    width:100%
+}
+
+
+
+
+.clinet{
+
+    text-align: center;
+}
+
+.same{
+
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+#p{
+
+    padding: 10px;
+    text-align: justify;
+}
+
+
+
+.last{
+
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.msg{
+
+   margin: auto;
+    width: 60%;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid lightpink;
+background-color: hotpink;
+    border-radius: 10px;
+
+}
+
+.tim{
+
+    color: white;
+}
+
+.f{
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
